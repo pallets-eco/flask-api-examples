@@ -28,11 +28,11 @@ For Windows:
 > env\Scripts\activate
 ```
 
-Each example is stored in a different subfolder. For example, the pure Flask example is in
+Each example is stored in a different subfolder of `examples`. For example, the pure Flask example is in
 the `flask` folder. To run this example, change into that folder:
 
 ```
-$ cd flask
+$ cd examples/flask
 ```
 
 Then install the requirements and run the application:
